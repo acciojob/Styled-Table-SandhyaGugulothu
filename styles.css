@@ -1,1 +1,13 @@
 /* your code */
+thead{
+	background-color:blue;
+	color:white;
+}
+table{
+	width:40px;
+	border-collapse:collapse;	
+}
+th,td{
+	text-align:center;
+}
+
